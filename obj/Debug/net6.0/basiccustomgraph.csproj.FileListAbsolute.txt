@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\bin\Debug\net6.0\basiccustomgraph.exe
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\bin\Debug\net6.0\basiccustomgraph.deps.json
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\bin\Debug\net6.0\basiccustomgraph.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\bin\Debug\net6.0\basiccustomgraph.dll
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\bin\Debug\net6.0\basiccustomgraph.pdb
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\basiccustomgraph.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\basiccustomgraph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\basiccustomgraph.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\basiccustomgraph.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\basiccustomgraph.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\basiccustomgraph.dll
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\refint\basiccustomgraph.dll
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\basiccustomgraph.pdb
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\basiccustomgraph.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\basiccustomgraph\obj\Debug\net6.0\ref\basiccustomgraph.dll
